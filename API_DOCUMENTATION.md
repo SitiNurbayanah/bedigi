@@ -1,4 +1,4 @@
-# BeDigi API Documentation
+# EvalidaSign API Documentation
 
 Dokumentasi lengkap untuk EvalidaSign Digital Signature System API.
 
