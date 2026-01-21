@@ -1,4 +1,4 @@
-# BeDigi - Digital Signature System
+# EvalidaSign - Digital Signature System
 
 Sistem tanda tangan digital untuk dokumen akademik dengan alur persetujuan bertingkat (Dosen → Ketua Jurusan).
 
